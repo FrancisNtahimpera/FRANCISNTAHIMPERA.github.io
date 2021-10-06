@@ -1,0 +1,14 @@
+.put a.active {
+    background-color: #4CAF50;
+    color: white;
+    display: inline-block;
+  }
+  
+  .put a:hover:not(.active) {background-color: #ddd;}
+
+  .put a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
