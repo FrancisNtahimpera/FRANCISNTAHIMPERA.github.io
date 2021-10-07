@@ -12,3 +12,17 @@
     padding: 8px 16px;
     text-decoration: none;
   }
+  /* CSS des bouton cu caroussel */
+  .owl-nav {
+             
+    background-color: ;
+    font-size: 50px;
+   padding-left: 50%;
+   font-style: bold;
+   
+}
+.owl-theme {
+    
+    width: 50px;
+    height: 50px;
+}
