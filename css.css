@@ -1,29 +1,53 @@
-.put a.active {
-    background-color: #4CAF50;
-    color: white;
-    display: inline-block;
-  }
-  
-  .put a:hover:not(.active) {background-color: #ddd;}
+body {
+  background: url("resto1.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+img {
+  margin-top: 10px;
+}
 
-  .put a {
-    color: black;
-    float: left;
-    padding: 8px 16px;
-    text-decoration: none;
-  }
-  /* CSS des bouton cu caroussel */
-  .owl-nav {
-             
-    background-color: ;
-    font-size: 50px;
-   padding-left: 50%;
-   font-style: bold;
-   
+li {
+  margin-left: 200px;
+}
+.col {
+  background-color: rgba(151, 136, 136, 0.623);
+}
+
+.put a.active {
+  background-color: #4caf50;
+  color: white;
+  display: inline-block;
+}
+
+.put a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+.put a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+/* CSS des bouton cu caroussel */
+.owl-nav {
+  background-color: ;
+  font-size: 50px;
+  padding-left: 50%;
+  font-style: bold;
 }
 .owl-theme {
-    
-    width: 50px;
-    height: 50px;
+  width: 50px;
+  height: 50px;
 }
- 
+
+h1 {
+  color: rgb(224, 177, 22);
+}
+footer {
+  color: rgb(224, 177, 22);
+}
+nav ul li a{
+  color: rgb(224, 177, 22) !important;
+}
