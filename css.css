@@ -1,14 +1,15 @@
 body {
-  background: url("resto1.jpg") no-repeat center center fixed;
+  background: url("img/resto1.jpg") no-repeat center center fixed;
   background-size: cover;
   color: white;
 }
 img {
   margin-top: 10px;
+  
 }
 
 li {
-  margin-left: 200px;
+  margin-left: ;
 }
 .col {
   background-color: rgba(151, 136, 136, 0.623);
@@ -37,3 +38,10 @@ footer {
 nav ul li a{
   color: rgb(224, 177, 22) !important;
 }
+/*
+nav ul li a:hover {
+  font-size: 1.1em;
+
+ 
+}
+
