@@ -2,27 +2,17 @@ body {
   background: url("img/resto1.jpg") no-repeat center center fixed;
   background-size: cover;
   color: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.3rem ;
 }
 img {
   margin-top: 10px;
   
 }
 
-li {
-  margin-left: ;
-}
+ 
 .col {
   background-color: rgba(151, 136, 136, 0.623);
-}
-
-.put a.active {
-  background-color: #4caf50;
-  color: white;
-  display: inline-block;
-}
-
-.put a:hover:not(.active) {
-  background-color: #ddd;
 }
 
 
@@ -33,15 +23,24 @@ h1 {
 }
 footer {
   color: rgb(224, 177, 22);
+   
+   height: fit-content;
+   width:100%;
 }
 
 nav ul li a{
   color: rgb(224, 177, 22) !important;
 }
-/*
+
 nav ul li a:hover {
   font-size: 1.1em;
 
  
 }
+  a i{
+  font-size: 1.1em;
+
+ 
+}
+ 
 
