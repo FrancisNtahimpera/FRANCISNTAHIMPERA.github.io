@@ -10,8 +10,7 @@ ce repos contient un site **en concstruction**, une vitrine pour un restaurant. 
 - toutes les infos du restaurant
 
 Langages : HTML , CSS , BOOTSTRAP
-![alternative text](1.png "Image Title")
-![alternative text](2.png "Image Title")
+ 
 
 STATUT : Le Design du site n'est pas encore etabli, par contre la structure du site est presque fini.
 
